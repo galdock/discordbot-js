@@ -1,0 +1,3 @@
+DISCORD_TOKEN=(process.env.TOKEN)
+PORT=4000
+DEBUG=true
